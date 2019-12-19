@@ -3,3 +3,11 @@ src/build/
 bench-routes
 glide.lock
 tests/node_modules
+
+# Dashboard
+dashboard/*/node_modules
+dashboard/*/*.log
+dashboard/*/npm-debug.log*
+dashboard/*/node_modules/
+dashboard/*/.node_repl_history
+dashboard/*/build/
